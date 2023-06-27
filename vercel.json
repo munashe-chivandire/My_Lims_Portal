@@ -9,5 +9,6 @@
             "src": "/(.*)",
             "dest": "Lims_Portal/wsgi.py"
         }
+
     ]
 }
